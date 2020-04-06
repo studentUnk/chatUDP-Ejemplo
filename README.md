@@ -6,4 +6,6 @@ https://poliformat.upv.es/access/content/group/OCW_5294_2008/MIW/465671/467799/U
 
 Por ende, agradecimientos a Juansa Sendra por haber publicado el código y habernos permitido realizar la práctica con facilidad.
 
-Importante: Para poder probar el archivo .jar es necesario que el servidor (ServChat.java) esté corriendo.
+INSTRUCCIONES
+Para ejecutar el chat es necesario que el servidor se este ejecutando. Este archivo es el archivo chatUDPServer.jar, localizado en java/jar.
+Despues de que este se este ejecutando se pasa abrir los "clientes" que se conectaran, para ello ejecutar el archivo chatUDPCliente.jar, localizado igualmente en java/jar.
